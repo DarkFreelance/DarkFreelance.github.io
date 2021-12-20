@@ -2,7 +2,7 @@
 redirect_from:
 - /d
 - /discord
-  redirect_to: https://discord.gg/xwH2Bw7P5b
+redirect_to: https://discord.gg/8Nf4ET63Ve
 ---
 # Discord
 
