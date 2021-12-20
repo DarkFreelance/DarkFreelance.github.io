@@ -6,7 +6,7 @@ We are a Freelance Development community with many freelancers in these categori
 * Minecraft Scripting
 * Website Design
 
-Want to join us? [Join our discord!](/discord)
+Need a job done, or want to join us? [Join our discord!](https://discord.gg/8Nf4ET63Ve)
 
 {% include elements/integrations/discord.html id="920140646495424603" %}
 
