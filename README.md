@@ -1,5 +1,3 @@
-# Dark - Freelance Commissions
-
 We are a Freelance Development community with many freelancers in these categories: 
 
 * Discord Bot Development
